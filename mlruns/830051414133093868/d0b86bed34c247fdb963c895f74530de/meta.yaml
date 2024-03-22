@@ -1,0 +1,15 @@
+artifact_uri: /home/akshat/MlFlow_walkthrough/mlruns/830051414133093868/d0b86bed34c247fdb963c895f74530de/artifacts
+end_time: 1711110600205
+entry_point_name: ''
+experiment_id: '830051414133093868'
+lifecycle_stage: active
+run_id: d0b86bed34c247fdb963c895f74530de
+run_name: defiant-colt-483
+run_uuid: d0b86bed34c247fdb963c895f74530de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711110598933
+status: 3
+tags: []
+user_id: akshat

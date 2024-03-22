@@ -1,0 +1,15 @@
+artifact_uri: /home/akshat/MlFlow_walkthrough/mlruns/830051414133093868/cb40f5d79bfc43c7999cd251625416ae/artifacts
+end_time: 1711110533161
+entry_point_name: ''
+experiment_id: '830051414133093868'
+lifecycle_stage: active
+run_id: cb40f5d79bfc43c7999cd251625416ae
+run_name: selective-snipe-715
+run_uuid: cb40f5d79bfc43c7999cd251625416ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711110531393
+status: 3
+tags: []
+user_id: akshat

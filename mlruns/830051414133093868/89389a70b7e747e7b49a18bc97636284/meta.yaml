@@ -1,0 +1,15 @@
+artifact_uri: /home/akshat/MlFlow_walkthrough/mlruns/830051414133093868/89389a70b7e747e7b49a18bc97636284/artifacts
+end_time: 1711110601435
+entry_point_name: ''
+experiment_id: '830051414133093868'
+lifecycle_stage: active
+run_id: 89389a70b7e747e7b49a18bc97636284
+run_name: placid-crane-396
+run_uuid: 89389a70b7e747e7b49a18bc97636284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711110600222
+status: 3
+tags: []
+user_id: akshat

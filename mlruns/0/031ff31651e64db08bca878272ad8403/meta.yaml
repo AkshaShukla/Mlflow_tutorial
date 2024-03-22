@@ -1,0 +1,15 @@
+artifact_uri: /home/akshat/MlFlow_walkthrough/mlruns/0/031ff31651e64db08bca878272ad8403/artifacts
+end_time: 1711110743550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 031ff31651e64db08bca878272ad8403
+run_name: unruly-koi-618
+run_uuid: 031ff31651e64db08bca878272ad8403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711110737803
+status: 3
+tags: []
+user_id: akshat
